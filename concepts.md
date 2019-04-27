@@ -58,5 +58,6 @@ ___
 * **!** Sprint w/ keybind (see Controls GUI)
 * **!** 3rd person view like modern
 * **!** fly; toggleable, speed options and smoothness option
+* * Also has fixed footstep sounds when landing
 * **!** Better chat; Resizeable, fixed lines
 * **?** GUI layout editor
