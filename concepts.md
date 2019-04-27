@@ -45,6 +45,7 @@ ___
 ___
 
 ### Global Stuff:
+* **!** Update Checker upon starting game
 * **!** Skins showing/working ***(Credit: Johnanater)***
 * **?** Mod Loader / Creator
 * * Mods should be auto-loaded into game from resources/mods/*
