@@ -18,13 +18,15 @@ ___
 * **!** Double Tap Jump Fly Toggle
 ###### Sound Settings GUI ***(NEW)***
 * **!** Master Sound
-* **!** Music
-* **!** Animals Sound
-* **!** Weather Sound
+* **!** Music Volume
+* **!** Animals Volume
+* **!** Weather Volume
+* **?** Main Menu Music Volume
 ###### Chat Settings GUI ***(NEW) (DEBUG)***
 * **!** Chat Window Size
 * **!** Chat Colors Toggle
 * **!** Hide towny in chat toggle
+* **?** Hide join/leave messages toggle
 ###### Controls GUI ***(NEW)***
 * **!** New added default controls
 * 1. Fly control
