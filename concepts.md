@@ -49,9 +49,24 @@ ___
 ### Global Stuff:
 * **!** Update Checker upon starting game
 * **!** Skins showing/working ***(Credit: Johnanater)***
-* **?** Mod Loader / Creator
-* * Mods should be auto-loaded into game from resources/mods/*
-* * Mods are made in JS or TypeScript, and interact with MC and LWJGL
+
+___
+
+### Mods
+* **!** Mods auto load from resources/mods/* ***(JavaScript)***
+* **!** Console logging, warnings, and errors
+* **!** Mod should be able to create a new control and wait for user input
+* **!** Mod should be able to refresh itself (for developers)
+* **?** Drawing things on screen
+* **?** Interacting with LWJGL to change anything, such as the render engine
+* **?** Grabbing current GUI and interacting with it
+* **?** Possiblity to watch tick, so we can have a fake while loop
+* **?** Full TypeScript definition files so that intellisense can be a thing
+* **?** Ease of access of the Minecraft class so devs can see entities and stuff
+* **?** Java mods
+* * Loading mod via jar similar to forge
+* * Java should be able to do everything JS does
+* * API so developers know where to look
 
 ___
 
