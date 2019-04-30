@@ -4,37 +4,42 @@
 ##### ! = _Finished, already done_
 ___
 
-## Stuff that's finished:
-### GUI Work
-###### Global GUI
-* **!** New controls screen, optimized
+## GUI Work
+#### Main Menu
 * **!** New main menu ***(Credit: Logan)***
 * * Includes panorama background
-* **!** Modern multiplayer gui, like 1.13
-###### Mod Settings GUI ***(NEW)***
+* **?** Mod Info / Credits button
+#### In-Game
+###### F3 Menu
+* **!** Show direction player is facing ***(Credit: portalsam)***
+#### Controls GUI ***(NEW)***
+* **!** Changing controls
+* **!** Scrolling down because of lots of controls
+* **!** More default controls from mod such as flying, sprinting
+#### Mod Settings GUI ***(NEW)***
 * **!** Fly settings
 * **!** FoV slider
 * **!** Double Tap Forward Run toggle
 * **!** Double Tap Jump Fly Toggle
-###### Sound Settings GUI ***(NEW)***
+#### Sound Settings GUI ***(NEW)***
 * **!** Master Sound
 * **!** Music Volume
 * **!** Animals Volume
 * **!** Weather Volume
 * **?** Main Menu Music Volume
-###### Chat Settings GUI ***(NEW) (DEBUG)***
+#### Chat Settings GUI ***(NEW) (DEBUG)***
 * **!** Chat Window Size
 * **!** Chat Colors Toggle
 * **!** Hide towny in chat toggle
 * **?** Hide join/leave messages toggle
-###### Controls GUI ***(NEW)***
+#### Controls GUI ***(NEW)***
 * **!** New added default controls
 * 1. Fly control
 * 2. Sprint control
 * 3. Zoom control
 * **!** Set keybind like in 1.13
 * * **?** Possible *settings* option for that control?
-###### Video Settings GUI
+#### Video Settings GUI
 * **!** Larger render distance
 * **!** Sky Settings
 * * **!** Rain toggle
@@ -43,16 +48,36 @@ ___
 * * **!** Cloud height slider
 * * **!** Enable/Disable clouds
 * * **!** Force time of day
+#### Multiplayer GUI
+* **!** Adding a new server
+* **!** Editing an existing server
+* **!** Deleting an existing server
+* **!** Direct Connect
+* **!** Setting a custom name
+* * Custom names are also auto-saved
+* **?** Showing if an existing server is up or not
+#### Player-List GUI
+* **?** Relying on custom packets (see Custom Server Packets)
+* **?** Button can be changed in options. Default: TAB
 
 ___
 
-### Global Stuff:
+## Global Stuff:
 * **!** Update Checker upon starting game
 * **!** Skins showing/working ***(Credit: Johnanater)***
 
+#### Custom Server Packets
+* **!** Servers with Custom Packets will rely on a custom plugin via Bukkit
+* **!** Ability for server to know if you're using this mod
+* **?** Server sending you all the players names
+
 ___
 
-### Mods
+
+
+___
+
+## Mods (Codename MegaMods)
 * **!** Mods auto load from resources/mods/* ***(JavaScript)***
 * **!** Console logging, warnings, and errors
 * **!** Mod should be able to create a new control and wait for user input
@@ -70,7 +95,7 @@ ___
 
 ___
 
-### In-Game:
+## In-Game:
 * **!** Texture Packs button in-game
 * **!** Sprint w/ keybind (see Controls GUI)
 * **!** 3rd person view like modern
