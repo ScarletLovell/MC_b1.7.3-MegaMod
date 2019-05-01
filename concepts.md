@@ -6,6 +6,7 @@ ___
 
 ## GUI Work
 #### Main Menu
+* **!** Music auto-plays in main menu
 * **!** New main menu ***(Credit: Logan)***
 * * Includes panorama background
 * **?** Mod Info / Credits button
