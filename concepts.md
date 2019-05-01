@@ -10,17 +10,18 @@ ___
 * * Includes panorama background
 * **?** Mod Info / Credits button
 #### In-Game
+* **!** Alex skins working
 ###### F3 Menu
 * **!** Show direction player is facing ***(Credit: portalsam)***
-#### Controls GUI ***(NEW)***
-* **!** Changing controls
-* **!** Scrolling down because of lots of controls
-* **!** More default controls from mod such as flying, sprinting
 #### Mod Settings GUI ***(NEW)***
 * **!** Fly settings
 * **!** FoV slider
 * **!** Double Tap Forward Run toggle
 * **!** Double Tap Jump Fly Toggle
+###### Fun Mode
+* **!** Makes gameplay more wacky/stupid
+* **?** Plays Calm4 from MC alpha on main menu
+* **?** Messes with main menu colors and vibrancy
 #### Sound Settings GUI ***(NEW)***
 * **!** Master Sound
 * **!** Music Volume
