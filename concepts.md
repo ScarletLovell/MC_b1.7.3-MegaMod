@@ -36,6 +36,7 @@ ___
 * 1. Fly control
 * 2. Sprint control
 * 3. Zoom control
+* 4. Force reloading chunks control
 * **!** Set keybind like in 1.13
 * * **?** Possible *settings* option for that control?
 #### Video Settings GUI ***(Heavily Edited)***
