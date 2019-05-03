@@ -10,17 +10,14 @@ ___
 * **!** New main menu ***(Credit: Logan)***
 * * Includes panorama background
 * **?** Mod Info / Credits button
-#### In-Game
-* **!** Alex skins working
-###### F3 Menu
-* **!** Show direction player is facing ***(Credit: portalsam)***
 #### Mod Settings GUI ***(NEW)***
 * **!** Fly settings
 * **!** FoV slider
 * **!** Double Tap Forward Run toggle
 * **!** Double Tap Jump Fly Toggle
-###### Fun Mode
-* **!** Makes gameplay more wacky/stupid
+#### Fun Mode GUI ***(NEW)***
+* **!** Option to set character width as you want via slider
+* **?** Option to invert colors in-game
 * **?** Plays Calm4 from MC alpha on main menu
 * **?** Messes with main menu colors and vibrancy
 #### Sound Settings GUI ***(NEW)***
@@ -28,7 +25,7 @@ ___
 * **!** Music Volume
 * **!** Animals Volume
 * **!** Weather Volume
-* **?** Main Menu Music Volume
+* **!** Main Menu Music Volume
 #### Chat Settings GUI ***(NEW) (DEBUG)***
 * **!** Chat Window Size
 * **!** Chat Colors Toggle
@@ -41,7 +38,7 @@ ___
 * 3. Zoom control
 * **!** Set keybind like in 1.13
 * * **?** Possible *settings* option for that control?
-#### Video Settings GUI
+#### Video Settings GUI ***(Heavily Edited)***
 * **!** Larger render distance
 * **!** Sky Settings
 * * **!** Rain toggle
@@ -50,7 +47,7 @@ ___
 * * **!** Cloud height slider
 * * **!** Enable/Disable clouds
 * * **!** Force time of day
-#### Multiplayer GUI
+#### Multiplayer GUI ***(Heavily Edited)***
 * **!** Adding a new server
 * **!** Editing an existing server
 * **!** Deleting an existing server
@@ -58,7 +55,7 @@ ___
 * **!** Setting a custom name
 * * Custom names are also auto-saved
 * **?** Showing if an existing server is up or not
-#### Player-List GUI
+#### Player-List GUI ***(NEW)***
 * **?** Relying on custom packets (see Custom Server Packets)
 * **?** Button can be changed in options. Default: TAB
 
@@ -66,7 +63,6 @@ ___
 
 ## Global Stuff:
 * **!** Update Checker upon starting game
-* **!** Skins showing/working ***(Credit: Johnanater)***
 
 #### Custom Server Packets
 * **!** Servers with Custom Packets will rely on a custom plugin via Bukkit
@@ -100,8 +96,20 @@ ___
 ## In-Game:
 * **!** Texture Packs button in-game
 * **!** Sprint w/ keybind (see Controls GUI)
-* **!** 3rd person view like modern
-* **!** fly; toggleable, speed options and smoothness option
-* * Also has fixed footstep sounds when landing
-* **!** Better chat; Resizeable, fixed lines
+* **!** 3rd view option, front camera
 * **?** GUI layout editor
+###### In-Game -> Skins
+* * ___Note___: Originally, this used ***Johnanater*** SkinFix, it's now heavily edited
+* * to allow alex skins, clothing, and UUID's via the minecraft.net server
+* * ___Note___: This mod takes advantage of 1.8.8's rendering and how it handles skins.
+* **!** Alex/Steve skins working
+* **!** Outer clothing on skins like in modern minecraft working
+* **!** New rendering for skins (Faster rendering)
+###### In-Game -> F3 Menu
+* **!** Show direction player is facing ***(Credit: portalsam)***
+
+___
+
+## Bug Fixes
+* **!** Fixed footstep sound when landing on ground
+
