@@ -6,54 +6,55 @@ ___
 
 ## GUI Work
 #### Main Menu
-* **!** Music auto-plays in main menu
+* **?** Music auto-plays in main menu
 * **!** New main menu ***(Credit: Logan)***
 * * Includes panorama background
 * **?** Mod Info / Credits button
 #### Mod Settings GUI ***(NEW)***
-* **!** Fly settings
+* **?** Fly settings
 * **!** FoV slider
-* **!** Double Tap Forward Run toggle
-* **!** Double Tap Jump Fly Toggle
+* **?** Double Tap Forward Run toggle
+* **?** Double Tap Jump Fly Toggle
+* **?** Toggle for 3D items or non-3D
 #### Fun Mode GUI ***(NEW)***
-* **!** Option to set character width as you want via slider
+* **?** Option to set character width as you want via slider
 * **?** Option to invert colors in-game
 * **?** Plays Calm4 from MC alpha on main menu
 * **?** Messes with main menu colors and vibrancy
 #### Sound Settings GUI ***(NEW)***
-* **!** Master Sound
-* **!** Music Volume
-* **!** Animals Volume
-* **!** Weather Volume
-* **!** Main Menu Music Volume
+* **?** Master Sound
+* **?** Music Volume
+* **?** Animals Volume
+* **?** Weather Volume
+* **?** Main Menu Music Volume
 #### Chat Settings GUI ***(NEW) (DEBUG)***
-* **!** Chat Window Size
-* **!** Chat Colors Toggle
-* **!** Hide towny in chat toggle
+* **?** Chat Window Size
+* **?** Chat Colors Toggle
+* **?** Hide towny in chat toggle
 * **?** Hide join/leave messages toggle
 #### Controls GUI ***(NEW)***
-* **!** New added default controls
+* **?** New added default controls
 * 1. Fly control
 * 2. Sprint control
 * 3. Zoom control
 * 4. Force reloading chunks control
-* **!** Set keybind like in 1.13
+* **?** Set keybind like in 1.13
 * * **?** Possible *settings* option for that control?
 #### Video Settings GUI ***(Heavily Edited)***
-* **!** Larger render distance
+* **?** Larger render distance
 * **!** Sky Settings
 * * **!** Rain toggle
-* * **!** Fog toggle ***(DEBUG)***
+* * **?** Fog toggle ***(DEBUG)***
 * * **!** Sky toggle
 * * **!** Cloud height slider
-* * **!** Enable/Disable clouds
+* * **?** Enable/Disable clouds
 * * **!** Force time of day
 #### Multiplayer GUI ***(Heavily Edited)***
-* **!** Adding a new server
-* **!** Editing an existing server
-* **!** Deleting an existing server
-* **!** Direct Connect
-* **!** Setting a custom name
+* **?** Adding a new server
+* **?** Editing an existing server
+* **?** Deleting an existing server
+* **?** Direct Connect
+* **?** Setting a custom name
 * * Custom names are also auto-saved
 * **?** Showing if an existing server is up or not
 #### Player-List GUI ***(NEW)***
@@ -66,8 +67,8 @@ ___
 * **!** Update Checker upon starting game
 
 #### Custom Server Packets
-* **!** Servers with Custom Packets will rely on a custom plugin via Bukkit
-* **!** Ability for server to know if you're using this mod
+* **?** Servers with Custom Packets will rely on a custom plugin via Bukkit
+* **?** Ability for server to know if you're using this mod
 * **?** Server sending you all the players names
 
 ___
@@ -77,10 +78,10 @@ ___
 ___
 
 ## Mods (Codename MegaMods)
-* **!** Mods auto load from resources/mods/* ***(JavaScript)***
-* **!** Console logging, warnings, and errors
-* **!** Mod should be able to create a new control and wait for user input
-* **!** Mod should be able to refresh itself (for developers)
+* **?** Mods auto load from resources/mods/* ***(JavaScript)***
+* **?** Console logging, warnings, and errors
+* **?** Mod should be able to create a new control and wait for user input
+* **?** Mod should be able to refresh itself (for developers)
 * **?** Drawing things on screen
 * **?** Interacting with LWJGL to change anything, such as the render engine
 * **?** Grabbing current GUI and interacting with it
@@ -95,9 +96,9 @@ ___
 ___
 
 ## In-Game:
-* **!** Texture Packs button in-game
+* **?** Texture Packs button in-game
 * **!** Sprint w/ keybind (see Controls GUI)
-* **!** 3rd view option, front camera
+* **?** 3rd view option, front camera
 * **?** GUI layout editor
 ###### In-Game -> Skins
 * * ___Note___: Originally, this used ***Johnanater*** SkinFix, it's now heavily edited
@@ -107,10 +108,10 @@ ___
 * **!** Outer clothing on skins like in modern minecraft working
 * **!** New rendering for skins (Faster rendering)
 ###### In-Game -> F3 Menu
-* **!** Show direction player is facing ***(Credit: portalsam)***
+* **?** Show direction player is facing ***(Credit: portalsam)***
 
 ___
 
 ## Bug Fixes
-* **!** Fixed footstep sound when landing on ground
+* **?** Fixed footstep sound when landing on ground
 
