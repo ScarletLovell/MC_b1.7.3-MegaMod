@@ -113,5 +113,5 @@ ___
 ___
 
 ## Bug Fixes
-* **?** Fixed footstep sound when landing on ground
+* **!** Fixed footstep sound when landing on ground
 
