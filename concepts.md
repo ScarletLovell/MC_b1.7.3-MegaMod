@@ -114,4 +114,5 @@ ___
 
 ## Bug Fixes
 * **!** Fixed footstep sound when landing on ground
+* **!** Bit Depth fix for AMD GPU's
 
